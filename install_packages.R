@@ -1,6 +1,6 @@
 clan <- c(
     "BiocManager",
-    "devtools"
+    "devtools",
     "dplyr",
     "tidyverse",
     "ggplot2",
