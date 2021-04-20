@@ -12,7 +12,9 @@ clan <- c(
     "Matrix",
     "pheatmap",
     "Rtsne",
-    "umap"
+    "umap",
+    "hdf5r",
+    "rfast2"
 )
 
 bioc <- c(
