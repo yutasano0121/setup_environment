@@ -14,7 +14,8 @@ clan <- c(
     "Rtsne",
     "umap",
     "hdf5r",
-    "rfast2"
+    "rfast2",
+    "log4r"
 )
 
 bioc <- c(
