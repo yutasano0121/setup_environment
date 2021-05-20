@@ -1,4 +1,4 @@
-sudo apt-get install \
+sudo yum install \
     htop \
     tmux \
     openssl-devel \
