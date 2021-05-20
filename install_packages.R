@@ -30,3 +30,5 @@ bioc <- c(
 
 install.packages(clan)
 BiocManager::install(bioc)
+remotes::install_github('chris-mcginnis-ucsf/DoubletFinder')
+
