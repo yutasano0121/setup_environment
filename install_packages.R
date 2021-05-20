@@ -14,7 +14,7 @@ clan <- c(
     "Rtsne",
     "umap",
     "hdf5r",
-    "rfast2",
+    "Rfast2",
     "log4r"
 )
 
