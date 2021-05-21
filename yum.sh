@@ -3,7 +3,8 @@ sudo yum install \
     tmux \
     openssl-devel \
     libcurl-devel \
-    libxml2-devel
+    libxml2-devel \
+    git
     
 sudo amazon-linux-extras install R4
 
