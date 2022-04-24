@@ -23,9 +23,11 @@ bioc <- c(
     "sva",
     "RISC",
     "Seurat",
+    "SeuratWrappers",
     "MAST",
     "clusterProfiler",
-    "org.Hs.eg.db"
+    "org.Hs.eg.db",
+    "Monocle3"
 )
 
 install.packages(clan)
